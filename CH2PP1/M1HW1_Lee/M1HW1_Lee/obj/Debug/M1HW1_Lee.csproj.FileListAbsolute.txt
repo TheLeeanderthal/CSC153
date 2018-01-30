@@ -1,0 +1,8 @@
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\bin\Debug\M1HW1_Lee.exe.config
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\bin\Debug\M1HW1_Lee.exe
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\bin\Debug\M1HW1_Lee.pdb
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\obj\Debug\M1HW1_Lee.Form1.resources
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\obj\Debug\M1HW1_Lee.Properties.Resources.resources
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\obj\Debug\M1HW1_Lee.csproj.GenerateResource.Cache
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\obj\Debug\M1HW1_Lee.exe
+E:\Spring2018\CSC153\Module 1\Homework\CH2PP1\M1HW1_Lee\M1HW1_Lee\obj\Debug\M1HW1_Lee.pdb

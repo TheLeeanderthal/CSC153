@@ -1,0 +1,8 @@
+Start
+	Load form with instruction label and buttons visible
+    		Select coin side button
+			Disable visible property of instruction label
+			Enable visible property of selected image 
+		Select exit button
+			Close form
+Stop

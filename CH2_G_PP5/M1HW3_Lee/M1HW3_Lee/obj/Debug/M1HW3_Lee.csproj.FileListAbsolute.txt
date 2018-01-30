@@ -1,0 +1,10 @@
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\bin\Debug\M1HW3_Lee.exe.config
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.csprojResolveAssemblyReference.cache
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.headsOrTails.resources
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.Properties.Resources.resources
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.csproj.GenerateResource.Cache
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.csproj.CoreCompileInputs.cache
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\bin\Debug\M1HW3_Lee.exe
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\bin\Debug\M1HW3_Lee.pdb
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.exe
+E:\Spring2018\CSC153\Module 1\Homework\CH2_G_PP5\M1HW3_Lee\M1HW3_Lee\obj\Debug\M1HW3_Lee.pdb

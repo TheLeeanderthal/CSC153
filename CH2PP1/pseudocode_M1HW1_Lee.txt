@@ -1,0 +1,5 @@
+Start
+	Load form
+    		Select Latin Button
+		Display english word in label
+Stop
