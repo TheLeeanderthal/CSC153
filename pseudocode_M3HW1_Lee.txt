@@ -1,0 +1,6 @@
+Start
+	
+	Select radial button
+		Assign image value
+	Print Image to Picture Box
+Stop

@@ -1,0 +1,6 @@
+Start
+	
+	Select word buttons
+		Assign words to variable value
+	Concatenate work with existing variable value
+Stop
