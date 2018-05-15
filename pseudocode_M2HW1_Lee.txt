@@ -1,0 +1,9 @@
+Start
+	
+	Input name and title info
+	Confirm input with button
+		Build name formats
+		Print name formats to buttons
+	Pick Format
+		Print format to label
+Stop

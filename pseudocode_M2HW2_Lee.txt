@@ -1,0 +1,6 @@
+Start
+	
+	Click word button 
+		Update accumulator variable
+		Print variable to label
+Stop
